@@ -74,11 +74,11 @@ ProductManagementTool program for Qt 5 language is an easy and best way to learn
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/collabration/diagram_collaboration_general.png)
 
-## Use Case**
+## Use Case
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/usecase/diagram_usecase_general.png)
 
-## Sequence**
+## Sequence
 
 Login
 

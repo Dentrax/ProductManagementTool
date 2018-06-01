@@ -132,7 +132,7 @@ Login
 
 * Real-time Product list refreshing if any operate handled
 
-# TO-DO List
+## TO-DO List
 
 * User authority level (Permission system)
 
@@ -142,7 +142,7 @@ Login
 
 * Product should be Refundable after sold
 
-# Known Issues
+## Known Issues
 
 * Window Fixed Size feature not working on Linux.
 

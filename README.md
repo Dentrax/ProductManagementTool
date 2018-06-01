@@ -52,35 +52,33 @@ ProductManagementTool program for Qt 5 language is an easy and best way to learn
 
 **Uses : Please see [Requirements](#requirements) before use**
 
-**Screenshots - UML Diagrams**
-
----
+# Screenshots - UML Diagrams
 
 - All UMLs Made with **[StarUML](http://staruml.io)**
 
 - **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams)** for see the all other UML diagrams.
 
-**Program**
+## Program
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/uml/diagram_uml_program.png)
 
-**Database**
+## Database
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/uml/diagram_uml_database.png)
 
-**Activity**
+## Activity
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/activity/diagram_activity_general.png)
 
-**Collabration**
+## Collabration
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/collabration/diagram_collaboration_general.png)
 
-**Use Case**
+## Use Case**
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/usecase/diagram_usecase_general.png)
 
-**Sequence**
+## Sequence**
 
 Login
 
@@ -88,7 +86,7 @@ Login
 
 - **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/sequence)** for see the other Squence diagrams.
 
-**Statechart**
+## Statechart
 
 Login
 
@@ -96,9 +94,7 @@ Login
 
 - **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/statechart)** for see the other Statechart diagrams.
 
-**Screenshots - Program GUI**
-
----
+# Screenshots - Program GUI
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/screenshots/ss_panel_login.png)
 

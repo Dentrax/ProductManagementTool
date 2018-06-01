@@ -86,7 +86,7 @@ Login
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/sequence/diagram_sequence_login.png)
 
-- **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/sequence)** for see the others.
+- **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/sequence)** for see the other Squence diagrams.
 
 **Statechart**
 
@@ -94,7 +94,7 @@ Login
 
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/ProductManagementTool/master/diagrams/statechart/diagram_statechart_login.png)
 
-- **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/statechart)** for see the others.
+- **[Click here](https://github.com/Dentrax/ProductManagementTool/blob/master/diagrams/statechart)** for see the other Statechart diagrams.
 
 **Screenshots - Program GUI**
 

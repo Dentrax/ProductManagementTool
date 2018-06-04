@@ -3,11 +3,11 @@
 
 1. `Test?`
 
-**a)** Yes **b)** No **c)** IDK *d)* KK
+- **a)** Yes **b)** No **c)** IDK **d)** KK
 
 1. `Test2?`
 
-**a)** Hhhh **b)** ssdasd **c)** fffff *d)* gggg
+- **a)** Hhhh **b)** ssdasd **c)** fffff **d)** gggg
 
 **Software Engineering Final Project - Advanced Product tracking automation system**
 

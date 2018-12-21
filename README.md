@@ -28,7 +28,7 @@
 
 **ProductManagementTool with Qt 5**
 
-ProductManagementTool program for Qt 5 language is an easy and best way to learn how automation systems interact with the database and works in practice.
+ProductManagementTool program for C++ language is an easy and best way to learn how automation systems interact with the database and works in practice.
 
 **Uses : Please see [Requirements](#requirements) and [Dependencies](#dependencies)**
 
